@@ -28,7 +28,8 @@
     height: 1500px;
     display: flex;
     flex-direction: column;
-    background-color: aliceblue;
+    background-color: beige;
+    color: bisque;
    background-image: url("../../Images/slika1.png");
    background-repeat: no-repeat;
    background-size: cover;
@@ -64,6 +65,7 @@
     background-color: aliceblue;
     padding-top: 50px;
     padding-bottom: 50px;
+    background-color:beige;
     
 }
 
@@ -71,6 +73,7 @@
     
     width: 200px;
     height: 200px;
+    
 }
 
 /* .bkgImage2{
@@ -89,6 +92,8 @@
 .about{
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: aliceblue;
+    background-color:beige;
+    color: black;
+    
     
 }

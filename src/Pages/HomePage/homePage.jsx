@@ -12,9 +12,12 @@ import slika11 from "../../Images/slika11.jpg";
 
 function HomePage() {
 
+  
+
     return (
         <div className="HomePage">
             <Header />
+            
             <div className="bkgImage"></div>
             <div className="info">
                 <div className="about">
