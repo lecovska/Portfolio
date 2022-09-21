@@ -4,7 +4,7 @@ import "./header.css";
 function Header(){
 return(
     <div className="header">
-        <h1>Aleksandra Lecovska</h1>
+        <h1>LECOVSKI</h1>
 
         <ul>
             <li><a href="../../Pages/HomePage">HOME</a></li>
