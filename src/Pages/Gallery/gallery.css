@@ -10,9 +10,10 @@
     flex-wrap: wrap;
     justify-content: center;
     width: 100%;
-    height: 100vh;
+    height: auto;
     padding: 100px;
     padding-top: 180px;
+    background-color: rgba(26, 25, 25, 0.945);
 }
 
 img{
@@ -27,3 +28,4 @@ img{
 img:hover{
     transform: scale(1.2);
 }
+
